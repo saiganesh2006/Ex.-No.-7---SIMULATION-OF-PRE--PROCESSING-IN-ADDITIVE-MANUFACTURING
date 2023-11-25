@@ -40,7 +40,8 @@
 
 ## OUTPUT:
 ## CAD FILE PREPARATION :
-![image](https://github.com/saiganesh2006/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145742342/dc8b0d39-aa32-4c89-bcc5-03961b9c538f)
+![image](https://github.com/saiganesh2006/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145742342/3fd729d5-4141-40ce-bb23-9edc658c9d09)
+
 
 ## strong base is suggested :
 Having a strong base or foundation is essential in the preprocessing stage for 3D printing because it helps ensure the stability and integrity of the printed object throughout the printing process
@@ -52,7 +53,7 @@ Sharp corners can act as stress concentration points, making the printed object 
 By ensuring an appropriate wall thickness during preprocessing, you can achieve a balance between structural integrity, printability, and material considerations. This leads to a successful 3D print with the desired strength, accuracy, and functionality.
 
 ## CONVERSION OF STL:
-![image](https://github.com/saiganesh2006/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145742342/3fd729d5-4141-40ce-bb23-9edc658c9d09)
+![image](https://github.com/saiganesh2006/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145742342/dc8b0d39-aa32-4c89-bcc5-03961b9c538f)
 
 ## coding of stl files :
 coding for STL file preprocessing empowers you with greater control, efficiency, and flexibility in preparing 3D models for printing. It enables automation, customization, and scalability while ensuring consistency and integration within your 3D printing workflow.
