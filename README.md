@@ -40,7 +40,7 @@
 
 ## OUTPUT:
 ## CAD FILE PREPARATION :
-![Alt text](image.png)
+![image](https://github.com/saiganesh2006/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145742342/dc8b0d39-aa32-4c89-bcc5-03961b9c538f)
 
 ## strong base is suggested :
 Having a strong base or foundation is essential in the preprocessing stage for 3D printing because it helps ensure the stability and integrity of the printed object throughout the printing process
@@ -52,19 +52,19 @@ Sharp corners can act as stress concentration points, making the printed object 
 By ensuring an appropriate wall thickness during preprocessing, you can achieve a balance between structural integrity, printability, and material considerations. This leads to a successful 3D print with the desired strength, accuracy, and functionality.
 
 ## CONVERSION OF STL:
-![Alt text](image-1.png)
+![image](https://github.com/saiganesh2006/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145742342/3fd729d5-4141-40ce-bb23-9edc658c9d09)
 
 ## coding of stl files :
 coding for STL file preprocessing empowers you with greater control, efficiency, and flexibility in preparing 3D models for printing. It enables automation, customization, and scalability while ensuring consistency and integration within your 3D printing workflow.
 
 ## ORIENTAION:
-![Alt text](image-2.png)
+![image](https://github.com/saiganesh2006/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145742342/c38835ce-cbef-468a-8c95-551c840b8486)
 
 ## printing verticlly upward and printing horizontolly in 3d printing :
 Vertical surfaces generally have better surface finish compared to horizontal surfaces, as the layers are stacked vertically, reducing the visibility of individual layer lines.
 
 ## SUPPORT STRUCTURE:
-![Alt text](image-4.png)
+![image](https://github.com/saiganesh2006/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145742342/e088797c-5394-4425-bd84-b3b89e88af58)
 
 ## part with support :
 A "part with support" in the preprocessing stage of 3D printing refers to a 3D model that requires the addition of support structures to ensure successful and accurate printing of certain features
@@ -73,7 +73,7 @@ A "part with support" in the preprocessing stage of 3D printing refers to a 3D m
 A "part without support" in the preprocessing stage of 3D printing refers to a 3D model that does not require the addition of support structures during the printing process. In other words, the design of the part is such that all features can be printed without the need for additional support material.
 
 ## SLICING:
-![Alt text](image-6.png)
+![image](https://github.com/saiganesh2006/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145742342/a9537c3f-3e68-46c2-bebd-79f28807f9cf)
 
 ## Uniform slicing :
 also known as uniform layer height or uniform layer thickness, refers to a preprocessing technique in 3D printing where the model is sliced into layers of consistent thickness throughout the entire object
@@ -84,7 +84,7 @@ It is a preprocessing technique in 3D printing where the layer thickness varies 
 ## Curved layer slicing :
 It is also known as adaptive layer height or variable layer height, is a preprocessing technique in 3D printing where the layer thickness varies along curved or sloping surfaces of a 3D model.
 ## PATH PLANNING:
-![Alt text](image-5.png)
+![image](https://github.com/saiganesh2006/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145742342/00004e00-ad6a-424f-8917-b0b83a204325)
 
 ## Fractional path planning :
 It is also known as fractional layering or non-integer layer heights, is a technique used in 3D printing to achieve finer resolution and improve the surface quality of printed objects
@@ -100,7 +100,7 @@ It is also known as grid infill or grid pattern, is a technique used in 3D print
 
 ## Output:
 
-![Alt text](output.png)
+![image](https://github.com/saiganesh2006/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145742342/2c4ceced-283e-4131-86af-af3a62014c7a)
 
 ### Name:D.B.V.SAI GANESH
 ### Register Number:23009248
